@@ -1,4 +1,4 @@
-[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)]
+[![MasterHead]([https://digitaledgetech.in/images/Banner_03.gif](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif))]
 <h1 align="center">Hi 👋, I'm Kavindu Jayasinghe</h1>
 <h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
