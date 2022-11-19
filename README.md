@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **MERN , Android , Java , R**
+- 💬 Ask me about **MERN , Android , Java , Python , R**
 
 - 📫 How to reach me **kavindujayasinghe2002122@gmail.com**
 
